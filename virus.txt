@@ -10,4 +10,4 @@ X=MsgBox("Please Wait, Uploading your data to Server. Do you want to Stop it",4+
 X=MsgBox("Could not stop. File Transfer Completed",1+16,"Completed")
 X=MsgBox("Your Computer is encrypted",0+64,"Alert")
 X=MsgBox("HAHA This was Prank",0+64,"Fooled You")
-X=MsgBox("Prank Credit pasan laksitha",0+64,"Fooled You")
+X=MsgBox("Prank Credit escherlol",0+64,"Fooled You lmao")
